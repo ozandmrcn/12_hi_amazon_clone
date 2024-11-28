@@ -1,6 +1,6 @@
 # Amazon HTML Clone
 
-Welcome to the **Amazon HTML Clone** repository! This project is a replica of the Amazon website's interface, recreated with HTML and CSS. Just like the Netflix clone, the design is fully responsive and localized in Turkish to match the regional experience.
+Welcome to the **Amazon HTML Clone** repository! This project is a replica of the Amazon website's interface, recreated with HTML and CSS. Just like the Netflix clone, the design is fully responsive and localized in Turkish.
 
 ## 🎯 Project Overview
 This project replicates the design and layout of Amazon's website using only HTML and CSS. It serves as a great opportunity for improving front-end development skills, particularly in responsive design and structuring complex layouts, all while being in Turkish.
@@ -8,7 +8,6 @@ This project replicates the design and layout of Amazon's website using only HTM
 ## 🚀 Features
 - **Responsive Design**: Fully responsive to different screen sizes, ensuring a smooth experience on all devices.
 - **UI Layout**: Mimics the main sections of Amazon, such as the header, product listings, and footer.
-- **Localization**: Translated into Turkish for a more regional and accessible experience.
 - **Interactive Elements**: Includes hover effects, clickable buttons, and smooth transitions for a user-friendly experience.
 
 ## 🛠️ Technologies Used
