@@ -19,7 +19,8 @@ You can view a demo of the project by visiting the following link:
 *https://ozanamazonhtml.netlify.app/*
 
 ## Preview
-*(Add image of your project here)*
+![brave_t0tgDuBGM5 (1)](https://github.com/user-attachments/assets/5b81c42e-b123-43e6-933e-91d9445757d1)
+
 
 ## 📧 Contact
 For any questions or feedback, feel free to contact:  
